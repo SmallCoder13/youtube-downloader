@@ -1,6 +1,6 @@
 This a youtube downloader That I coded using Python
 
-#Install#
+**Install**
 
 To install just click on Code -> Download Zip
 
