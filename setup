@@ -1,0 +1,16 @@
+#Install virtualenv
+
+sudo apt install virtualenv
+
+#Create virtual environment
+virtualenv venv
+
+source venv/bin/activate
+
+#Install requirments
+
+pip install selenium --break-system-packages
+
+sudo apt install python3-tk
+
+pip install tk
