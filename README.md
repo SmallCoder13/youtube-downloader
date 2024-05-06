@@ -4,7 +4,11 @@ This a youtube downloader That I coded using Python
 
 To install just click on Code -> Download Zip
 
-After that, unzip it and run main.py
+After that, unzip it and run setup
+
+to run setup, go to the folder where **youtube-downloader-main** was downloaded. Next, just run the file.
+
+Now, run main.py
 
 To run main.py on Debian, open a terminal by hitting Ctrl + alt + T
 use the cd command to navigate to the folder where the .zip file was extracted. e.g. cd Downloads/python-youtube-downloader-main
